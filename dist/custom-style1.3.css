@@ -1,0 +1,17 @@
+.kpi-module__hero {
+    font-variant-ligatures: none;
+
+    padding-top: 4px;
+    margin-right: 12px;
+    font-weight: 300 !important;
+    font-size: 30px !important;
+    line-height: 32px !important;
+    color: #0054B2;
+}
+
+.bk-title-description .bk-title-section .bk-title {
+    font-weight: 400 !important;
+    font-size: 14px !important;
+    line-height: 16px !important;
+    color: #1A1F22 !important;
+}
