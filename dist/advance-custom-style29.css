@@ -95,9 +95,8 @@
 }
 
 .tile-container li,
-.bk-sharable-item-pinboard-info
-{
-display: none !important;
+.bk-sharable-item-pinboard-info {
+    display: none !important;
 }
 
 
