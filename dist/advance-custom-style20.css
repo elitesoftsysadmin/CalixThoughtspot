@@ -79,8 +79,8 @@
     width: 24.25%;
     height: 85px !important;
     position: relative !important;
-        left: 0% !important;
-        top: 0% !important;
+    left: 0% !important;
+    top: 0% !important;
 }
 
 .tile-size-xs .bk-pinboard-data-viz .bk-pinboard-viz-header {
