@@ -94,8 +94,7 @@
     padding: 5px 10px !important;
 }
 
-.tile-container
-.ribbon-item {
+.tile-container .ribbon-item {
     display: none !important;
 }
 
