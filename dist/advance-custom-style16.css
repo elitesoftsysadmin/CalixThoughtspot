@@ -84,6 +84,7 @@
     flex-basis: 26px !important;
     -webkit-flex-basis: 26px !important;
 }
+
 .tile-size-xs .bk-pinboard-data-viz {
     box-shadow: none !important;
     border-left: 1px solid #EBEAEF !important;
