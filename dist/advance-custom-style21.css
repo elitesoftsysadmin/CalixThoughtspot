@@ -102,7 +102,7 @@
 
 .tile-container .tile-size-xs {
     display: flex !important;
-        flex-wrap: wrap !important;
+    flex-wrap: wrap !important;
     justify-content: space-between;
 }
 
