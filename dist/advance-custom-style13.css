@@ -52,11 +52,11 @@
 
 .tile-container .tile-size-xs .bk-title {
     font-weight: 300 !important;
-        font-size: 13px !important;
-        line-height: 16px !important;
-        color: #4c4c4c !important;
-        font-family: "Source Sans Pro", sans-serif;
-        margin-bottom: 7px !important;
+    font-size: 13px !important;
+    line-height: 16px !important;
+    color: #4c4c4c !important;
+    font-family: "Source Sans Pro", sans-serif;
+    margin-bottom: 7px !important;
 }
 
 .tile-container>.bk-pinboard-tile:nth-child(7) .bk-title {
