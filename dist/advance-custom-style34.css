@@ -121,6 +121,7 @@
 .chartSection .vizWrapper .legend-width {
     max-width: 100% !important;
 }
+
 .chartSection {
     flex-direction: column !important;
 }
