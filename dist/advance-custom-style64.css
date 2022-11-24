@@ -1,0 +1,153 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600;700&display=swap");
+
+.kpi-module__hero {
+    font-variant-ligatures: none;
+
+    padding-top: 4px;
+    margin-right: 12px;
+    font-weight: 300 !important;
+    font-size: 30px !important;
+    line-height: 32px !important;
+    color: #0279ff;
+    font-family: "Source Sans Pro", sans-serif;
+}
+
+
+.tile-container .tile-size-xs .bk-title {
+    font-weight: 300 !important;
+    font-size: 13px !important;
+    line-height: 16px !important;
+    color: #4c4c4c !important;
+    font-family: "Source Sans Pro", sans-serif;
+    margin-bottom: 0px !important;
+}
+
+.headline-viz-module__pinboardTileMode.headline-viz-module__numberType .headline-viz-module__aggregationValue {
+    padding-top: 0;
+    font-weight: 300 !important;
+    font-size: 30px !important;
+    line-height: 32px !important;
+    color: #0279ff;
+    font-family: "Source Sans Pro", sans-serif;
+}
+
+.bk-pinboard-data-viz .bk-pinboard-viz-header {
+    flex-basis: 34px !important;
+    -webkit-flex-basis: 34px !important;
+    -moz-flex-basis: 34px !important;
+}
+
+.bk-base-pinboard-data-viz-container .headline-viz-module__headlineBody,
+.bk-base-pinboard-data-viz-container .headline-viz-module__loadingWrapper {
+    height: auto !important;
+}
+
+.headline-viz-module__aggregationValue .headline-viz-module__aggregationValueContent {
+    padding-left: 0px !important;
+}
+
+.headline-viz-module__pinboardTileMode.headline-viz-module__numberType .headline-viz-module__aggregationValue {
+    font-weight: 300 !important;
+    font-size: 30px !important;
+    line-height: 32px !important;
+    color: #0279ff;
+    font-family: "Source Sans Pro", sans-serif;
+}
+
+.bk-pinboard-tile.tile-size-xs .bk-pinboard-data-viz .bk-pinboard-viz-header {
+    box-shadow: none !important;
+    border-left: 1px solid #EBEAEF !important;
+    padding-left: 10px !important
+}
+
+.bk-pinboard-tile.tile-size-xs.bk-packable {
+    margin-bottom: 20px !important;
+}
+
+.bk-pinboard-data-viz {
+    box-shadow: none !important;
+}
+
+.bk-pinboard-tile.tile-size-xs .bk-action-list-container,
+.kpi-module__sublabel,
+.bk-pinboard-tile.tile-size-ms .bk-action-list-container {
+    display: none !important;
+}
+
+.bk-pinboard-tile.tile-size-xs .bk-data-viz .bk-data-viz-content .bk-data-viz-content-inner {
+    flex-grow: initial !important;
+    -webkit-flex-grow: initial !important;
+    -moz-flex-grow: initial !important;
+}
+
+.bk-pinboard-tile.tile-size-xs .bk-pinboard-data-viz .bk-pinboard-viz-content {
+    max-height: 40px !important;
+    overflow: initial !important;
+    display: inline-flex !important;
+}
+
+.bk-title-description .bk-title-section .bk-title {
+    font-size: 13px !important;
+    font-weight: 300 !important;
+}
+
+.bk-pinboard-tile.tile-size-xs.bk-packable,
+.bk-pinboard-tile.tile-size-ms.bk-packable {
+    position: relative !important;
+    left: auto !important;
+    top: auto !important;
+    right: auto !important;
+    display: inline-flex !important;
+    width: 24.25% !important;
+    flex: 24.25% !important;
+    align-items: flex-start;
+
+}
+
+.bk-pinboard-tile.tile-size-ms.bk-packable {
+    min-width: 320px;
+}
+
+/* @media (min-width: 1366px) and (max-width:1920px)
+    {
+    .tile-container.tile-size-xs {
+    width:24.25% !important;
+    flex: 24.25% !important;
+    }
+    } */
+.chartSection .vizWrapper .legend-width {
+    max-width: 100% !important;
+}
+
+.chart-viz-v2-container>.chartSection>.vizWrapper {
+    flex-direction: column !important;
+}
+
+.chartSection .vizWrapper .legend-area .vertical-legend {
+    flex-direction: row !important;
+    overflow-x: hidden;
+    width: 100% !important;
+
+}
+
+.chartSection .vizWrapper .chart-legend-container-v2 {
+    width: 100% !important;
+}
+
+.chartSection .vizWrapper .chart-legend-container-v2 .legend-item-v2 {
+    width: auto !important;
+}
+
+.chartSection .vizWrapper .legend-area .chart-legend-container-v2 {
+    justify-content: center !important;
+}
+
+
+
+.bk-outline .ag-theme-alpine .ag-row:nth-of-type(odd) {
+    background-color: #F8F8FA !important;
+}
+
+.kpi-module__sublabel {
+    display: none !important;
+}
