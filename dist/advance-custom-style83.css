@@ -229,3 +229,22 @@
     overflow: scroll !important;
     
 } */
+
+.kpi-module_comparison .kpi-moduledifflabel+.kpi-module_base,
+.kpi-module_comparison .kpi-moduledifflabel+.kpi-modulebase+.kpi-module_timeBucket,
+.kpi-module_kpi[data-testid="chartviz_kpi"] .kpi-module_sublabel {
+    display: none !important;
+}
+
+.chart-area .kpi-module__kpi[data-testid="chartviz_kpi"] {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    align-items: flex-start;
+}
+
+.kpi-module_kpi[data-testid="chartviz_kpi"] .kpi-module_heroDataContainer,
+.kpi-module_kpi[data-testid="chartviz_kpi"] .kpi-module_comparison,
+{
+display: inline-flex !important;
+}
