@@ -1,0 +1,85 @@
+@font-face {
+    font-family: "Source-Sans-Pro";
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url("https://cdn.jsdelivr.net/gh/elitesoftsysadmin/CalixThoughtspot@1.1/dist/font/SourceSansPro-Light.ttf") format('ttf');
+}
+
+/* @import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600;700&display=swap"); */
+
+.kpi-module__hero {
+    font-variant-ligatures: none;
+    font-weight: 300 !important;
+    font-size: 30px !important;
+    line-height: 32px !important;
+    color: #0279ff;
+    font-family: "Source Sans Pro", sans-serif;
+}
+
+.tile-container .tile-size-xs .bk-title {
+    font-weight: 300 !important;
+    font-size: 13px !important;
+    line-height: 16px !important;
+    color: #4c4c4c !important;
+    font-family: "Source Sans Pro", sans-serif;
+
+}
+
+.tile-size-xs .bk-pinboard-data-viz {
+    box-shadow: none !important;
+    border-left: 1px solid #EBEAEF !important;
+
+}
+
+.tile-container li,
+.bk-embedded-menu,
+.bk-pinboard-ribbon-default,
+.bk-sharable-item-pinboard-info {
+    display: none !important;
+}
+
+.headline-viz-module__pinboardTileMode.headline-viz-module__numberType .headline-viz-module__aggregationValue {
+    font-weight: 300 !important;
+    font-size: 30px !important;
+    line-height: 32px !important;
+    color: #0279ff;
+    font-family: "Source Sans Pro", sans-serif;
+}
+
+.bk-outline .ag-theme-alpine .ag-row:nth-of-type(odd) {
+    background-color: #F8F8FA !important;
+}
+
+.kpi-module__sublabel {
+    display: none !important;
+}
+
+.kpi-module__timeBucket {
+    display: none !important;
+}
+
+.kpi-module__base {
+    display: none;
+}
+
+.kpi-module_comparison .kpi-moduledifflabel+.kpi-module_base,
+.kpi-module_comparison .kpi-moduledifflabel+.kpi-modulebase+.kpi-module_timeBucket,
+.kpi-module_kpi[data-testid="chartviz_kpi"] .kpi-module_sublabel {
+    display: none !important;
+}
+
+.chart-area .kpi-module__kpi[data-testid="chartviz_kpi"] {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+.kpi-module_kpi[data-testid="chartviz_kpi"] .kpi-module_heroDataContainer,
+.kpi-module_kpi[data-testid="chartviz_kpi"] .kpi-module_comparison {
+    display: inline-flex !important;
+}
+
+.bk-geo-map-tooltip {
+    display: block !important;
+}
